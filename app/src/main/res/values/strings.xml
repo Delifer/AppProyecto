@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string-array name="ropa_spinner">
+        <item></item>
+        <item>Pantalones</item>
+        <item>Camisa</item>
+    </string-array>
+</resources>
